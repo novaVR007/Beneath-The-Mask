@@ -1,9 +1,0 @@
-{
-  "name": "Beneath The Mask",
-  "description": "The song Beneath from Persona 5 by Shoji Meguro.",
-  "author": "novaVR07",
-  "version": "v1.0",
-  "manifest_version": 2,
-  "music": true,
-  "ignore": []
-}
