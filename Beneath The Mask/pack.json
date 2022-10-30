@@ -1,0 +1,9 @@
+{
+  "name": "Beneath the Mask",
+  "description": "The song Beneath the Mask from Persona 5 by Shoji Meguro. It's the song that plays in Leblanc Cafe.",
+  "author": "novaVR07",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": []
+}
